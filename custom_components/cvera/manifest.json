@@ -1,0 +1,10 @@
+{
+  "domain": "cvera",
+  "name": "CVera",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/vera",
+  "requirements": ["pyvera==0.3.14"],
+  "codeowners": ["@pavoni"],
+  "iot_class": "local_polling",
+  "version": "1.2.3"
+}
